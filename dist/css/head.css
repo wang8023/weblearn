@@ -1,0 +1,147 @@
+.f8f8f8 {
+	background: #f8f8f8;
+}
+
+.w10 {
+	width: 100%;
+}
+
+.headl {
+	width: 60%;
+	margin-left: 3%;
+}
+
+.fl {
+	float: left;
+	display: inlie;
+}
+
+.fr {
+	float: right;
+	display: inline;
+}
+
+.headr {
+	width: 37%;
+}
+
+.headr_en {
+	width: 70%;
+	margin-left: 30%;
+	margin-top: 10%;
+}
+
+.headr_en_l {
+	width: 32%;
+	float: left;
+	background: url(../img/icon/spritesheet.jpg);
+	background-position: -0px -0px;
+	width: 34px;
+	height: 34px;
+}
+
+.headr_en_r {
+	width: 32%;
+	float: left;
+	margin-left: 17%;
+	background: url(../img/icon/spritesheet.jpg);
+	background-position: -34px -0px;
+	width: 34px;
+	height: 34px;
+}
+
+.clear {
+	clear: both;
+}
+
+.navtop {
+	width: 100%;
+	background: url(../img/icon/spritesheet.jpg) repeat-x;
+	background-position: -0px -34px;
+	height: 2px;
+}
+
+.navleft {
+	width: 80%;
+	line-height: 36px;
+	font-size: 16px;
+	height: 36px;
+	float: left;
+	font-family: "Microsoft YaHei";
+}
+
+.navleft ul li {
+	float: left;
+	width: 25%;
+	text-align: center;
+	height: 36px;
+	line-height: 36px;
+	min-width: 30px;
+}
+
+.navleft ul li a {
+	color: #3c3d3d;
+	font-size: 16px;
+}
+
+.navright {
+	margin-left: 5%;
+	width: 3px;
+	height: 20px;
+	margin-top: 8px;
+	float: left;
+}
+
+.navrightr {
+	width: 17px;
+	height: 13px;
+	margin-top: 13px;
+	margin-left: 3%;
+	float: left;
+}
+
+.hdleft {
+	height: 36px;
+	width: 55%;
+}
+
+.hd1 {
+	width: 89px;
+	height: 36px;
+}
+
+.bd {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+	transition-duration: 500ms;
+	transform: translate(0px, 0px) translateZ(0px);
+}
+
+.ul2015 {
+	display: table-cell;
+	vertical-align: top;
+	width: 100%;
+}
+
+.liebiaowenzi {
+	width: 90%;
+	overflow: hidden;
+	margin-left: 2%;
+	height: 32px;
+}
+
+.li7 {
+	height: 32px;
+	line-height: 32px;
+	overflow: hidden;
+	width: 100%;
+	overflow: hidden;
+}
+
+.li7 a,
+.li7 a:hover {
+	color: #c40001;
+}

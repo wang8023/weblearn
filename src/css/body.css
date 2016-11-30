@@ -1,0 +1,65 @@
+body, p, input, h1, h2, h3, h4, h5, h6, ul, li, dl, dt, dd, form {
+    margin: 0;
+    padding: 0; 
+    list-style: none; 
+    vertical-align: middle; 
+    font-weight:normal;
+}
+img{
+    margin:0px; 
+    padding:0px; 
+    border:0px;
+    max-width:100%;
+}
+
+body { color: #000;
+   -webkit-user-select: none;
+   -webkit-text-size-adjust: none;
+   text-align:left;
+}
+header, section, footer, img { 
+    display: block;
+     margin: 0; 
+     padding: 0 ;
+}
+a{
+    text-decoration:none;
+    color:#000;
+} 
+body{ 
+    background:#f4f4f4;
+}
+.auto{
+    margin:0px auto;
+}
+ul{
+    list-style:none; 
+    margin:0px;
+     padding:0px;
+}
+a{
+    text-decoration:none;
+    color:#3a3a3a;
+}
+html{
+    margin:0px; 
+    padding:0px; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:12px;
+    width:100%; 
+    min-width:270px;
+}
+.slideBox{ 
+    position:relative; 
+    width:100%; 
+    overflow:hidden;
+    font:normal 16px/200% "微软雅黑", helvetica, arial;
+} 
+.slideBox img{ 
+    width:100%; 
+    display:block;
+     margin:0px; 
+     padding:0px;
+}
+  
+

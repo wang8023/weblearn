@@ -1,0 +1,1 @@
+function uldisplay(){var l=document.getElementById("ulid");flag?(l.style.display="none",flag=!1):(l.style.display="table-cell",flag=!0)}function mod1(l){console.log(l+a)}function mod2(){return"mod2"}var flag=!0,a=1;
